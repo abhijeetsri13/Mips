@@ -1,0 +1,10 @@
+Implement a MIPS assembly program which reads a string first, and then reads a character. The program should return the number of the occurrences of the character in the string, or 0 if the character cannot be found: (a) Input string: Hello Input character: e Output:1 (b) Input string: Hello Input character: l Output:2 (c) Input string: Hello Input character: a Output:0 (Not found) To declare a char buffer[n] of n bytes, use the .space n directive in the .data segment
+Implement a MIPS assembly program which reads a string first, and then reads a character. The program should return the number of the occurrences of the character in the string, or 0 if the character cannot be found:
+
+(a) Input string: Hello Input character: e Output:1
+
+(b) Input string: Hello Input character: l Output:2
+
+(c) Input string: Hello Input character: a Output:0 (Not found)
+
+To declare a char buffer[n] of n bytes, use the .space n directive in the .data segment
